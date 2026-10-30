@@ -6,8 +6,9 @@
 
 <a href="https://www.linkedin.com/in/dathannobrega"><img src="https://img.shields.io/badge/LinkedIn-dathannobrega-00e5ff?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=0d1117" alt="LinkedIn" /></a>
 <a href="https://cti.segark.com"><img src="https://img.shields.io/badge/CTI_Protexion-cti.segark.com-00ff9c?style=for-the-badge&logo=torproject&logoColor=00ff9c&labelColor=0d1117" alt="CTI Protexion" /></a>
+<a href="https://medium.com/@dathannobrega"><img src="https://img.shields.io/badge/Medium-writeups-ff3b6b?style=for-the-badge&logo=medium&logoColor=ff3b6b&labelColor=0d1117" alt="Medium" /></a>
 <a href="https://www.datan.com.br"><img src="https://img.shields.io/badge/Blog-datan.com.br-7c5cff?style=for-the-badge&logo=astro&logoColor=7c5cff&labelColor=0d1117" alt="Blog" /></a>
-<img src="https://komarev.com/ghpvc/?username=dathannobrega&style=for-the-badge&color=ff3b6b&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=dathannobrega&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -39,9 +40,11 @@ tools so I don't have to do it by hand next time.
 <tr>
 <td width="50%" valign="top">
 
-#### 🛰️ SEGARK Pipeline &nbsp;<img src="https://img.shields.io/badge/-production-00ff9c?style=flat-square" />
+#### 🛰️ [SEGARK Pipeline](https://dathannobrega.github.io/CentralOps-docs/) &nbsp;<img src="https://img.shields.io/badge/-production-00ff9c?style=flat-square" />
 Vendor-neutral pipeline that takes raw endpoint & cloud logs from **CrowdStrike, Defender and Sophos**,
 normalizes everything to **OCSF 1.8** and routes detections to any SIEM/XDR.
+
+· [docs](https://dathannobrega.github.io/CentralOps-docs/)
 
 `OCSF 1.8` `Python` `CrowdStrike` `Defender` `Sophos`
 
@@ -67,9 +70,9 @@ Opens multi-gigabyte forensic timelines **instantly**. Native macOS triage for D
 </td>
 <td width="50%" valign="top">
 
-#### 🐛 Banking Trojan Research &nbsp;<img src="https://img.shields.io/badge/-published-7c5cff?style=flat-square" />
+#### 🐛 [Banking Trojan Research](https://medium.com/@dathannobrega/powershell-based-brazilian-banking-trojan-with-real-time-pix-overlay-capability-230d09bb39d9) &nbsp;<img src="https://img.shields.io/badge/-published-7c5cff?style=flat-square" />
 Teardown of a **WhatsApp-spread PIX banking trojan**: fileless execution, memory injection,
-persistence hooks and IoCs.
+persistence hooks and IoCs. · [read on Medium](https://medium.com/@dathannobrega/powershell-based-brazilian-banking-trojan-with-real-time-pix-overlay-capability-230d09bb39d9)
 
 `Reverse Engineering` `Malware Analysis` `MITRE ATT&CK`
 
@@ -96,6 +99,16 @@ minds (or their sessions).
 </td>
 </tr>
 </table>
+
+---
+
+### `> ls ~/writeups --latest`
+
+- 🇧🇷 [Do WhatsApp ao PowerShell: automação, C2 via e-mail (IMAP) e exfiltração por HTTP](https://medium.com/@dathannobrega/do-whatsapp-ao-vbs-automa%C3%A7%C3%A3o-exfiltra%C3%A7%C3%A3o-e-c2-por-e-mail-3731d0cc1b02)
+- 🇧🇷 [Invasão por Reenvio: automação do WhatsApp como vetor de distribuição](https://medium.com/@dathannobrega/invas%C3%A3o-por-reenvio-automa%C3%A7%C3%A3o-do-whatsapp-como-vetor-de-distribui%C3%A7%C3%A3o-7818bb61dca8)
+- 🇧🇷 [Campanha de Phishing Brasil — uma análise do malware](https://medium.com/@dathannobrega/campanha-de-phishing-brasil-uma-analise-do-malware-f08b3df50539)
+- 🔎 [How CVE-2024-24919 was exploited in the wild — LetsDefend SOC287](https://medium.com/@dathannobrega/how-cve-2024-24919-was-exploited-in-the-wild-a-letsdefend-soc287-case-walkthrough-c8bb407ebfc3)
+- 📚 [more on Medium →](https://medium.com/@dathannobrega)
 
 ---
 
