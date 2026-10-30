@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="424" viewBox="0 0 860 424">
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; font-size:15px; }
+    .p { fill:#00ff9c; } .c { fill:#e6edf3; } .k { fill:#00e5ff; } .v { fill:#c9d1d9; } .m { fill:#8b949e; } .r { fill:#ff3b6b; } .u { fill:#7c5cff; }
+    .l { opacity:0; animation: show .01s forwards; }
+    @keyframes show { to { opacity:1; } }
+    .mask { animation: typing .9s steps(30) forwards; }
+    @keyframes typing { to { transform: translateX(340px); } }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0; } }
+  </style>
+  <rect x="1" y="1" width="858" height="422" rx="12" fill="#0a0f16" stroke="#00ff9c" stroke-opacity="0.25"/>
+  <rect x="1" y="1" width="858" height="36" rx="12" fill="#111925"/>
+  <rect x="1" y="25" width="858" height="12" fill="#111925"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/>
+  <text x="430" y="24" class="mono" fill="#8b949e" text-anchor="middle" style="font-size:13px">dathan@soc: ~ — zsh</text>
+
+  <g class="mono">
+    <g class="l" style="animation-delay:.2s">
+      <text x="24" y="70"><tspan class="p">➜ ~</tspan> <tspan class="c">whoami</tspan></text>
+      <rect class="mask" x="68" y="54" width="340" height="22" fill="#0a0f16" style="animation-delay:.3s"/>
+    </g>
+    <text x="24" y="96" class="v l" style="animation-delay:1.3s">Dathan Nóbrega — blue teamer, log hunter, honeypot keeper 🍯</text>
+
+    <g class="l" style="animation-delay:1.8s">
+      <text x="24" y="132"><tspan class="p">➜ ~</tspan> <tspan class="c">cat ~/.profile.yml</tspan></text>
+      <rect class="mask" x="68" y="116" width="340" height="22" fill="#0a0f16" style="animation-delay:1.9s"/>
+    </g>
+    <g class="l" style="animation-delay:3s">
+      <text x="24" y="158"><tspan class="k">day_job</tspan><tspan class="m">:  </tspan><tspan class="v">SOC · detection engineering · incident response</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:3.2s">
+      <text x="24" y="182"><tspan class="k">toys</tspan><tspan class="m">:     </tspan><tspan class="v">[Wazuh, CrowdStrike, Defender, Sophos, Cowrie]</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:3.4s">
+      <text x="24" y="206"><tspan class="k">speaks</tspan><tspan class="m">:   </tspan><tspan class="v">[Python, Rust, Bash, PowerShell, MITRE ATT&amp;CK]</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:3.6s">
+      <text x="24" y="230"><tspan class="k">badges</tspan><tspan class="m">:   </tspan><tspan class="v">[</tspan><tspan class="r">Security+</tspan><tspan class="v"> (fresh out of the oven 🔥), Falcon Admin, SC-900]</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:3.8s">
+      <text x="24" y="254"><tspan class="k">fuel</tspan><tspan class="m">:     </tspan><tspan class="u">coffee + false positives at 3am</tspan></text>
+    </g>
+
+    <g class="l" style="animation-delay:4.3s">
+      <text x="24" y="290"><tspan class="p">➜ ~</tspan> <tspan class="c">tail -n 3 /var/log/honeypot.log</tspan></text>
+      <rect class="mask" x="68" y="274" width="340" height="22" fill="#0a0f16" style="animation-delay:4.4s"/>
+    </g>
+    <g class="l" style="animation-delay:5.5s">
+      <text x="24" y="316"><tspan class="m">[</tspan><tspan class="r">SSH</tspan><tspan class="m">]</tspan>   <tspan class="v">root:123456 — bold choice, attacker. logged ✔</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:5.8s">
+      <text x="24" y="340"><tspan class="m">[</tspan><tspan class="u">TOR</tspan><tspan class="m">]</tspan>   <tspan class="v">new exit nodes spotted → CTI feed updated</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:6.1s">
+      <text x="24" y="364"><tspan class="m">[</tspan><tspan class="k">WAZUH</tspan><tspan class="m">]</tspan> <tspan class="v">rule tuned, analyst slept </tspan><tspan class="p">✔</tspan></text>
+    </g>
+
+    <g class="l" style="animation-delay:6.6s">
+      <text x="24" y="400"><tspan class="p">➜ ~</tspan> <tspan class="c blink">█</tspan></text>
+    </g>
+  </g>
+</svg>
